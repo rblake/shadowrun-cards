@@ -640,11 +640,13 @@
   },
   {
     "count": 1,
-    "title": "Know: Lip Reading",
+    "title": "Know: DocWagon EMT ",
     "contents": [
       "section | Program, Knowsoft",
       "fill | 1",
-      "property | Knowledge: | +4 Lip Reading",
+      "property | Knowledge: | +4 DocWagon EMT procedures",
+      "fill | 1",
+      "property | First Aid:  | d8",
       "fill | 1",
       "rule",
       "text | 8000¥"
@@ -654,11 +656,30 @@
       "know"
     ],
     "color": "Indigo",
+    "icon": "compact-disc",
+    "title_size": "10"
+  },
+  {
+    "count": 1,
+    "title": "Lang: Lip Reading",
+    "contents": [
+      "section | Program, Linguasoft",
+      "fill | 1",
+      "property | Knowledge: | +4 Lip Reading",
+      "fill | 1",
+      "rule",
+      "text | 2000¥"
+    ],
+    "tags": [
+      "prog",
+      "lang"
+    ],
+    "color": "Indigo",
     "icon": "compact-disc"
   },
   {
     "count": 1,
-    "title": "Language: Spanish",
+    "title": "Lang: Spanish",
     "contents": [
       "section | Program, Linguasoft",
       "fill | 1",
