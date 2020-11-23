@@ -7,7 +7,7 @@
       "property | Regular: | 2¥ ",
       "boxes | 7 | 1",
       "fill | 1",
-      "property | Tracker: | 6.5¥ ",
+      "property | Tracker: | 6¥ ",
       "boxes | 2 | 1",
       "fill | 1",
       "property | Gel: | 2.5¥ | Damage/AP: | -2/-2",
@@ -37,7 +37,7 @@
     "title": "Ares Pred Costly Loadout",
     "contents": [
       "fill | 1",
-      "property | Tracker: | 6.5¥ ",
+      "property | Tracker: | 6¥ ",
       "boxes | 1 | 1",
       "fill | 1",
       "property | Gel: | 2.5¥ | Damage/AP: | -2/-2",
@@ -75,7 +75,7 @@
       "property | Regular: | 2¥ ",
       "boxes | 15 | 1",
       "fill | 1",
-      "property | Tracker: | 6.5¥ ",
+      "property | Tracker: | 6¥ ",
       "boxes | 15 | 1",
       "fill | 1",
       "property | Gel: | 2.5¥ | Dmg/AP/Stun:| -2/-2/yes",
@@ -116,7 +116,7 @@
       "fill | 1",
       "boxes | 100 | .67",
       "rule",
-      "text | 6.5¥"
+      "text | 6¥"
     ],
     "tags": [
       "weapon",
