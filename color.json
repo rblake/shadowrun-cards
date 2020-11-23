@@ -1,0 +1,41 @@
+
+if (0) {}
+
+else if (0
+    || card_has_tag('ammo')
+    || card_has_tag('weapon')
+   ) {
+    card.color = "Maroon";
+}
+
+else if (0
+    || card_has_tag('drug')
+    || card_has_tag('meds')
+    || card_has_tag('toxin')
+   ) {
+    card.color = "Navy";
+}
+
+else if (0
+    || card_has_tag('tool')
+    || card_has_tag('gear')
+    || card_has_tag('spy')
+    || card_has_tag('armor')
+   ) {
+    card.color = "#5c4033";
+}
+
+else if (0
+    || card_has_tag('phone')
+    || card_has_tag('prog')
+    || card_has_tag('tech')
+   ) {
+    card.color = "Indigo";
+}
+
+else if (0
+    || card_has_tag('grenade')
+   ) {
+    card.color = "DarkGreen";
+}
+
