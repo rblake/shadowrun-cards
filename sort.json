@@ -1,4 +1,4 @@
-if (0)
+if (0) {}
 else if (card_a.icon < card_b.icon) {
     return -1;
 }
