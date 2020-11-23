@@ -1951,6 +1951,28 @@
   },
   {
     "count": 1,
+    "title": "Bug: ultrasound",
+    "contents": [
+      "fill | 1",
+      "bullet | Records 24h of data",
+      "bullet | ultrasound (active) 50m",
+      "bullet | ultrasound (passive) 5m",
+      "fill  | 1",
+      "section | wireless",
+      "property | Transmit: | Matrix | Transmit: | 1m ",
+      "fill  | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 104¥"
+    ],
+    "tags": [
+      "spy"
+    ],
+    "color": "#5c4033",
+    "icon": "spy"
+  },
+  {
+    "count": 1,
     "title": "Datachip",
     "contents": [
       "fill | 1",
@@ -2488,27 +2510,5 @@
     ],
     "color": "Maroon",
     "icon": "trench-knife"
-  },
-  {
-    "count": 1,
-    "title": "Bug: ultrasound",
-    "contents": [
-      "fill | 1",
-      "bullet | Records 24h of data",
-      "bullet | ultrasound (active) 50m",
-      "bullet | ultrasound (passive) 5m",
-      "fill  | 1",
-      "section | wireless",
-      "property | Transmit: | Matrix | Transmit: | 1m ",
-      "fill  | 1",
-      "boxes | 10 | 1.65",
-      "rule",
-      "text | 104¥"
-    ],
-    "tags": [
-      "spy"
-    ],
-    "color": "#5c4033",
-    "icon": "spy"
   }
 ]
