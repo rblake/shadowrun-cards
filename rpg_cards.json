@@ -1,0 +1,2445 @@
+[
+  {
+    "count": 1,
+    "title": "Tracker Round",
+    "contents": [
+      "fill | 1",
+      "bullet | Tracker rounds include an RFID tag inside the bullet. ",
+      "bullet | If the target is damaged by the hit, the tracker round remains within the body of the target until it is removed. ",
+      "bullet | If all damage is resisted, the round is imbedded in the target’s armor. ",
+      "fill | 1",
+      "boxes | 100 | .67",
+      "rule",
+      "text | 15¥"
+    ],
+    "tags": [
+      "weapon",
+      "ammo"
+    ],
+    "color": "Maroon",
+    "title_size": "",
+    "icon": "ammo-box"
+  },
+  {
+    "count": 1,
+    "title": "Bulldog",
+    "contents": [
+      "section | Van, wheel",
+      "property | Size: | 5 | Tough: | 17",
+      "property | Handling: | 1 | Armor: | 7",
+      "property | Speed: | 140 | Sensor: | 3",
+      "property | Crew: | 1+11",
+      "section | Mods",
+      "bullet | morphing license plate, spoof chip, grid link override, rigger interface",
+      "bullet | Concealed Turret Heavy Weapon",
+      "bullet | run flat tires",
+      "bullet | anti-theft: lock and alert owner",
+      "bullet | Satellite : -5 noise due to distance.",
+      "bullet | 2 gun ports",
+      "bullet | oil slick, 5 uses, recharge for 50¥",
+      "bullet | internal, external cameras, searchlight",
+      "bullet | L,M,S,m drone racks",
+      "fill | 1",
+      "rule",
+      "text | 66,500¥"
+    ],
+    "tags": [
+      "vehicle ground wheel"
+    ],
+    "color": "",
+    "icon": "car-wheel"
+  },
+  {
+    "count": 1,
+    "title": "Audio Enhancement",
+    "contents": [
+      "property | Capacity: | 1",
+      "fill | 1",
+      "property | Notice: | +1",
+      "text | Audio enhancement allows the user to hear a broader spectrum of frequencies, including high and low frequencies outside the normal metahuman audible spectrum. The user also experiences fine discrimination of nuances and can block out distracting background noise. ",
+      "fill | 1",
+      "rule",
+      "text | 500¥"
+    ],
+    "tags": [
+      "sensor audio"
+    ],
+    "color": "",
+    "icon": "cctv-camera"
+  },
+  {
+    "count": 1,
+    "title": "Flare Compensation",
+    "contents": [
+      "property | Capacity: | 1",
+      "fill | 1",
+      "text | This protects you from blinding flashes of light as well as simple glare. This modification  Negates the penalty  from flashing lights, like from a flash-pak. ",
+      "fill | 1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "sensor image"
+    ],
+    "color": "",
+    "icon": "cctv-camera"
+  },
+  {
+    "count": 1,
+    "title": "Low-light vision",
+    "contents": [
+      "property | Capacity: | 1",
+      "fill | 1",
+      "text | This accessory allows you to ignore penalties for Dim or Dark illumination (but not Pitch Darkness).",
+      "fill | 1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "sensor image"
+    ],
+    "color": "",
+    "icon": "cctv-camera"
+  },
+  {
+    "count": 1,
+    "title": "Select Sound Filter (1)",
+    "contents": [
+      "property | Capacity: | 1",
+      "fill | 1",
+      "bullet | Blocks out background noise",
+      "bullet | Can focus on specific sounds or patterns of sounds. ",
+      "bullet | Includes speech, word, and sound pattern recognition. ",
+      "bullet | Can load/search for a sound (such as the footsteps of a patrolling guard, a particular word, or the rotors of a distant helicopter). ",
+      "bullet| Can trigger an alert sound occurs and play it back.  ",
+      "fill | 1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "sensor audio"
+    ],
+    "color": "",
+    "icon": "cctv-camera",
+    "title_size": "12"
+  },
+  {
+    "count": 1,
+    "title": "Thermographic Vision",
+    "contents": [
+      "property | Capacity: | 1",
+      "fill | 1",
+      "text | This enhancement enables vision in the infrared spectrum, enabling you to see heat patterns. It’s a very practical way to spot living beings in areas of total darkness, to check if a motor or machine has been running lately, and so on. This modification  halves Illumination penalties when attacking targets that radiate heat.",
+      "fill | 1",
+      "rule",
+      "text | 500¥"
+    ],
+    "tags": [
+      "sensor image"
+    ],
+    "color": "",
+    "icon": "cctv-camera"
+  },
+  {
+    "count": 1,
+    "title": "Vision Enhancement",
+    "contents": [
+      "property | Capacity: | 2",
+      "fill | 1",
+      "property | Notice: | +1",
+      "text | This sharpens a character’s vision at all ranges, providing visual acuity closer to that of the average hawk than that of the average metahuman. ",
+      "fill | 1",
+      "rule",
+      "text | 500¥"
+    ],
+    "tags": [
+      "sensor image"
+    ],
+    "color": "",
+    "icon": "cctv-camera"
+  },
+  {
+    "count": 1,
+    "title": "Vision Magnification",
+    "contents": [
+      "property | Capacity: | 1",
+      "fill | 1",
+      "text | This zoom function digitally magnifies vision by up to fifty times, allowing distant targets to be seen clearly. This accessory allows you to read lips or read fine print up to a mile distant. ",
+      "fill | 1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "sensor image"
+    ],
+    "color": "",
+    "icon": "cctv-camera"
+  },
+  {
+    "count": 1,
+    "title": "Bliss",
+    "contents": [
+      "property | Vector: | Inhale, Eat",
+      "property | Onset: | 1 turn ",
+      "property | Effect: | Cancel 1 wound penalty",
+      "property | Duration: | (6 - Vigor/2) hours",
+      "property | Crash: | none ",
+      "fill | 1",
+      "text  | A tranquilizing narcotic, bliss is an opiate synthesized from poppy plants.",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 15¥"
+    ],
+    "tags": [
+      "drug"
+    ],
+    "color": "Navy",
+    "icon": "cigarette"
+  },
+  {
+    "count": 1,
+    "title": "Cram",
+    "contents": [
+      "property | Vector: | Inhale, Eat",
+      "property | Onset: | 10 min ",
+      "property | Effect: | Quick Edge",
+      "property | Duration: | (12 - Vigor/2) hours",
+      "property | Crash: | +1 Fatigue ",
+      "fill | 1",
+      "text | Cram users appear hyper-alert, almost to the point of paranoia. They react quickly, often without thought, and they’re prone to irrational outbursts. Other common side effects are jitteriness and fidgeting. ",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 10¥"
+    ],
+    "tags": [
+      "drug"
+    ],
+    "color": "Navy",
+    "icon": "cigarette"
+  },
+  {
+    "count": 1,
+    "title": "Deepweed",
+    "contents": [
+      "property | Vector: | Inhale, Eat",
+      "property | Onset: | immediate",
+      "property | Effect: | Force Astral, +1 magic",
+      "property | Duration: | (6 - Vigor/2) hours",
+      "property | Crash: | -1 magic for 6 hr",
+      "fill | 1",
+      "text | Deepweed forces any magically active user to astrally perceive, even if the user is an adept without any astral perception ability. Role-playing the effects of deepweed may mean portraying someone who seems not completely “present.” ",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 400¥"
+    ],
+    "tags": [
+      "drug"
+    ],
+    "color": "Navy",
+    "icon": "cigarette"
+  },
+  {
+    "count": 1,
+    "title": "Jazz",
+    "contents": [
+      "",
+      "property | Vector: | Inhale",
+      "property | Onset: | Immediate ",
+      "property | Effect: | Cancel 2 MAP",
+      "property | Duration: | d6 x 10 min",
+      "property | Crash: | Depressed 1 hr",
+      "fill | 1",
+      "text | Taken from a single-dose inhaler. Makes people jumpy and hyper. Role-playing a jazz user means turning it up a notch, portraying someone with too much energy to burn—and too much energy to focus. When jazz wears off, the user is despondent.",
+      "fill | 1boxes | 10 | 1.65",
+      "rule",
+      "text | 75¥"
+    ],
+    "tags": [
+      "drug"
+    ],
+    "color": "Navy",
+    "icon": "cigarette"
+  },
+  {
+    "count": 1,
+    "title": "Kamikaze",
+    "contents": [
+      "property | Vector: | Inhale",
+      "property | Onset: | Immediate ",
+      "property | Effect: | Beserk, cancel 2 MAP",
+      "property | Duration: | d6 x 10 min",
+      "property | Crash: | +1 Fatigue",
+      "fill | 1",
+      "text | Kamikaze users are nearcrazed, filled with a feeling of imperviousness and invincibility, exhibiting almost no regard for their own well-being.",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 100¥"
+    ],
+    "tags": [
+      "drug"
+    ],
+    "color": "Navy",
+    "icon": "cigarette"
+  },
+  {
+    "count": 1,
+    "title": "Long Haul",
+    "contents": [
+      "property | Vector: | Inhale",
+      "property | Onset: | 10 min ",
+      "property | Effect: | no need to sleep",
+      "property | Duration: | 4 days",
+      "property | Crash: |",
+      "bullet | Sleep 8d6 hours. ",
+      "bullet | If kept awake,  +1 Fatigued, hallucinate",
+      "bullet | Second dose: stay awake 2 days, suffer Fatigue. ",
+      "bullet | Third dose: single day of wakefulness, suffer Exhaustion.",
+      "bullet | More doses: no effect.",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 50¥"
+    ],
+    "tags": [
+      "drug"
+    ],
+    "color": "Navy",
+    "icon": "cigarette"
+  },
+  {
+    "count": 1,
+    "title": "Nitro",
+    "contents": [
+      "property | Vector: | Inhale",
+      "property | Onset: | 1 turn ",
+      "property | Effect: | +1 Spi, +1 Str, cancel wound penalties",
+      "property | Duration: | d6 x 10 min",
+      "property | Crash: | 2 Fatigue ",
+      "fill | 1",
+      "text | Nitro users feel infused with energy, suffer a diminished attention span, and talk incessantly (including to themselves)",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 50¥"
+    ],
+    "tags": [
+      "drug"
+    ],
+    "color": "Navy",
+    "icon": "cigarette"
+  },
+  {
+    "count": 1,
+    "title": "Novacoke",
+    "contents": [
+      "property | Vector: | Inhale, Eat",
+      "property | Onset: | 1 turn ",
+      "property | Effect: | +1 Notice, +1 Persuasion ",
+      "property | Duration: | (10 - Vigor/2) hours",
+      "property | Crash: | -4 Persuasion ",
+      "fill | 1",
+      "text | A stimulant derived from coca plants, novacoke is a highly addictive social drug. ",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 10¥"
+    ],
+    "tags": [
+      "drug"
+    ],
+    "color": "Navy",
+    "icon": "cigarette"
+  },
+  {
+    "count": 1,
+    "title": "Psyche",
+    "contents": [
+      "property | Vector: | Inhale",
+      "property | Onset: | 10 min ",
+      "property | Effect: | +1 Sma, +1 Spi",
+      "property | Duration: | (12 - Vigor/2) hours",
+      "property | Crash: | none ",
+      "fill | 1",
+      "text | Psyche users are simultaneously hyper-aware and detached, easily absorbed by detail and obsessive about certain facts or problems. ",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 200¥"
+    ],
+    "tags": [
+      "drug"
+    ],
+    "color": "Navy",
+    "icon": "cigarette"
+  },
+  {
+    "count": 1,
+    "title": "Zen",
+    "contents": [
+      "",
+      "property | Vector: | Inhale",
+      "property | Onset: | 5 min ",
+      "property | Effect: | -1 all tests",
+      "property | Duration: | d6 x 10 min",
+      "property | Crash: | none ",
+      "fill | 1",
+      "text | A psychedelic hallucinogen, zen is popular among those looking to escape reality or seeking trance-like states. It won’t help you much when you’re on a run, unless you dose your opponents with it.",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 5¥"
+    ],
+    "tags": [
+      "drug"
+    ],
+    "color": "Navy",
+    "icon": "cigarette"
+  },
+  {
+    "count": 1,
+    "title": "Armor",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "property | Firewall: | +2",
+      "fill |1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "prog hacking"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Biofeedback Filter",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "text | 1 free reroll to soak Matrix damage",
+      "fill |1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "prog hacking"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Boating: d4",
+    "contents": [
+      "section | Program, Autosoft",
+      "fill | 1",
+      "rule",
+      "text | 1,000¥"
+    ],
+    "tags": [
+      "prog auto"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Browse",
+    "contents": [
+      "section | Program, Basic",
+      "fill | 1",
+      "text | 1 free reroll when Matrix searching",
+      "fill |1",
+      "rule",
+      "text | 60¥"
+    ],
+    "tags": [
+      "prog basic"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Driving:  d8",
+    "contents": [
+      "section | Program, Autosoft",
+      "fill | 1",
+      "rule",
+      "text | 2,000¥"
+    ],
+    "tags": [
+      "prog auto"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Edit",
+    "contents": [
+      "section | Program, Basic",
+      "fill | 1",
+      "text | 1 free reroll when editing a file",
+      "fill |1",
+      "rule",
+      "text | 60¥"
+    ],
+    "tags": [
+      "prog basic"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Exploit",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "text | Reduce firewall of defender by 2",
+      "fill |1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "prog",
+      "hacking"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Know: Lip Reading",
+    "contents": [
+      "section | Program, Knowsoft",
+      "fill | 1",
+      "property | Knowledge: | +4 Lip Reading",
+      "fill | 1",
+      "rule",
+      "text | 8000¥"
+    ],
+    "tags": [
+      "prog",
+      "know"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Language: Spanish",
+    "contents": [
+      "section | Program, Linguasoft",
+      "fill | 1",
+      "",
+      "rule",
+      "text | 2000¥"
+    ],
+    "tags": [
+      "prog",
+      "lang"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Map: ADA Compliance",
+    "contents": [
+      "section | Program, Mapsoft",
+      "fill | 1",
+      "",
+      "rule",
+      "text | 100¥"
+    ],
+    "tags": [
+      "prog",
+      "map"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Map: Public Bathrooms",
+    "contents": [
+      "section | Program, Mapsoft",
+      "fill | 1",
+      "",
+      "rule",
+      "text | 100¥"
+    ],
+    "tags": [
+      "prog",
+      "map"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Notice:  d12",
+    "contents": [
+      "section | Program, Autosoft",
+      "fill | 1",
+      "rule",
+      "text | 3,000¥"
+    ],
+    "tags": [
+      "prog",
+      "auto"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Overclock",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "text |  One additional matrix action at no penalty",
+      "fill |1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "prog",
+      "hacking"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Pilot:  d8 ",
+    "contents": [
+      "section | Program, Autosoft",
+      "fill | 1",
+      "rule",
+      "text | 2,000¥"
+    ],
+    "tags": [
+      "prog",
+      "auto"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Shooting:  d8",
+    "contents": [
+      "section | Program, Autosoft",
+      "fill | 1",
+      "rule",
+      "text | 2,000¥"
+    ],
+    "tags": [
+      "prog",
+      "auto"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Signal Scrubber",
+    "contents": [
+      "section | Program, Basic",
+      "fill | 1",
+      "property | Noise: | cancel -2",
+      "fill |1",
+      "rule",
+      "text | 60¥"
+    ],
+    "tags": [
+      "prog",
+      "basic"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Stealth:  d12 ",
+    "contents": [
+      "section | Program, Autosoft",
+      "fill | 1",
+      "rule",
+      "text | 3,000¥"
+    ],
+    "tags": [
+      "prog",
+      "auto"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Swarm",
+    "contents": [
+      "section | Program, Autosoft",
+      "fill | 1",
+      "bullet | Add +1 for each drone in swarm to hit",
+      "bullet | All drones act as 1 drone",
+      "bullet | Only 1 attack",
+      "fill |1",
+      "rule",
+      "text | 600¥"
+    ],
+    "tags": [
+      "prog",
+      "auto"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Wrapper",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "text |  Disguise Matrix iconography",
+      "fill |1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "prog",
+      "hacking"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Battle Wheelchair",
+    "contents": [
+      "section | ground, wheels",
+      "property | Size: | -1 | Tough: | 6",
+      "property | Handling: | 2 | Armor: | 4",
+      "property | Speed: | 30 | Sensor: | 2",
+      "fill | 1",
+      "bullet | Light weapon mount",
+      "bullet | Smartwheels (15 cm)",
+      "bullet | camera + microphone",
+      "bullet | ultrasound",
+      "fill | 1",
+      "section | rigger Cocoon ",
+      "property| Tough: | 11",
+      "property | Armor: | 10",
+      "fill | 1",
+      "rule",
+      "text| 7,375¥"
+    ],
+    "tags": [
+      "drone",
+      "ground",
+      "wheel"
+    ],
+    "color": "",
+    "icon": "delivery-drone"
+  },
+  {
+    "count": 1,
+    "title": "Doberman",
+    "contents": [
+      "section | Ground, Walk",
+      "property | Size: | -1 | Tough: | 12",
+      "property | Handling: | 2 | Armor: | 6",
+      "property | Speed: | 100 | Sensor: | 3",
+      "rule",
+      "fill | 1",
+      "bullet | Standard weapon mount",
+      "fill | 1",
+      "rule",
+      "text| 6,500¥"
+    ],
+    "tags": [
+      "drone",
+      "ground",
+      "wheel"
+    ],
+    "color": "",
+    "icon": "delivery-drone"
+  },
+  {
+    "count": 1,
+    "title": "Gnat",
+    "contents": [
+      "section | flying, hover",
+      "property | Size: | -5| Tough: | 1",
+      "property | Handling: | 2| Armor: | 0",
+      "property | Speed: | 30| Sensor: | 1",
+      "rule",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text| 80¥"
+    ],
+    "tags": [
+      "drone",
+      "flying",
+      "hover"
+    ],
+    "color": "",
+    "icon": "delivery-drone"
+  },
+  {
+    "count": 1,
+    "title": "Hornet",
+    "contents": [
+      "section | flying, hover",
+      "property | Size: | -4 | Tough: | 1",
+      "property | Handling: | 2 | Armor: | 0",
+      "property | Speed: | 35 | Sensor: | 2",
+      "rule",
+      "fill | 1",
+      "property | Attack: | Injection, GS",
+      "property | Vision: | Magnification",
+      "property | Audio: | omnimic",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text| 2550¥"
+    ],
+    "tags": [
+      "drone",
+      "flying",
+      "hover"
+    ],
+    "color": "",
+    "icon": "delivery-drone"
+  },
+  {
+    "count": 1,
+    "title": "Noizquito",
+    "contents": [
+      "section | flying, hover",
+      "property | Size: | -4| Tough: | 1",
+      "property | Handling: | 2 | Armor: | 0",
+      "property | Speed: | 35| Sensor: | 2",
+      "rule",
+      "fill | 1",
+      "property | Attack: | -2 distraction ",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "",
+      "rule",
+      "text| 2000¥"
+    ],
+    "tags": [
+      "drone",
+      "flying",
+      "hover"
+    ],
+    "color": "",
+    "icon": "delivery-drone"
+  },
+  {
+    "count": 1,
+    "title": "Oni",
+    "contents": [
+      "section | Ground, Walk",
+      "property | Size: | 2 | Tough: | 12",
+      "property | Handling: | 2 | Armor: | 6",
+      "property | Speed: | 30 | Sensor: | 2",
+      "rule",
+      "fill | 1",
+      "bullet | Retractable blades",
+      "bullet | Can hold 2 Heavy Weapons.",
+      "bullet | Can run on all fours, loses weapons.",
+      "fill | 1",
+      "rule",
+      "text| 6,700¥"
+    ],
+    "tags": [
+      "drone",
+      "ground",
+      "walk"
+    ],
+    "color": "",
+    "icon": "delivery-drone"
+  },
+  {
+    "count": 1,
+    "title": "Rotodrone",
+    "contents": [
+      "section | flying, hover",
+      "property | Size: | -1 | Tough: | 10",
+      "property | Handling: | 2 | Armor: | 4",
+      "property | Speed: | 160 | Sensor: | 2",
+      "rule",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text| 5000¥"
+    ],
+    "tags": [
+      "drone",
+      "flying",
+      "hover"
+    ],
+    "color": "",
+    "icon": "delivery-drone"
+  },
+  {
+    "count": 1,
+    "title": "Steed (Wheelchair)",
+    "contents": [
+      "section | ground, wheels",
+      "property | Size: | 0 | Tough: | 3",
+      "property | Handling: | 2 | Armor: | 0",
+      "property | Speed: | 30 | Sensor: | 2",
+      "fill | 1",
+      "bullet | Smartwheels (15 cm)",
+      "bullet | camera + microphone",
+      "bullet | ultrasound",
+      "fill | 1",
+      "rule",
+      "text| 4250¥"
+    ],
+    "tags": [
+      "drone",
+      "ground",
+      "wheel"
+    ],
+    "color": "",
+    "icon": "delivery-drone",
+    "title_size": "10"
+  },
+  {
+    "count": 1,
+    "title": "EMP Grenade",
+    "contents": [
+      "property | Range: | 5/10/20| ",
+      "property | Blast: | 10m ",
+      "fill | 1",
+      "property | Roll: | Every device in radius rolls Device Rating x 2 against a 4 difficulty.",
+      "property | Failure: | Items that fail the test burn out, have their data erased, and may even catch on fire or explode from the power surge. At the gamemaster’s discretion, even optical devices like commlinks will lose 3 points of Signal rating as their antennae are affected.",
+      "fill | 1",
+      "section | wireless",
+      "bullet | activate/deactivate remotely",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text | 500¥"
+    ],
+    "tags": [
+      "grenade"
+    ],
+    "color": "DarkGreen",
+    "icon": "grenade"
+  },
+  {
+    "count": 1,
+    "title": "Flash-pak",
+    "contents": [
+      "property | Range: | 5/10/20|  Resist: | Vigor",
+      "property | Blast: | Large| Effect: | -2 all actions",
+      "property |AP: | 0 | Duration: | 10 rounds",
+      "fill | 1",
+      "property | Recharge |  ",
+      "bullet | plugged in: 1 round per 10 seconds",
+      "fill | 1",
+      "section | wireless",
+      "bullet | avoid flashing 1 person",
+      "property | Recharge | ",
+      "bullet | induction: one charge per hour",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text | 125¥"
+    ],
+    "tags": [
+      "grenade"
+    ],
+    "color": "DarkGreen",
+    "icon": "grenade"
+  },
+  {
+    "count": 1,
+    "title": "Fragmentation Grenade",
+    "contents": [
+      "property | Range: | 5/10/20 | Damage: | 3d6",
+      "property | Blast: | Medium ",
+      "property |AP: | 0 ",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text | 150¥"
+    ],
+    "tags": [
+      "grenade"
+    ],
+    "color": "DarkGreen",
+    "icon": "grenade",
+    "title_size": "12"
+  },
+  {
+    "count": 1,
+    "title": "High-Explosive Grenade",
+    "contents": [
+      "property | Range: | 5/10/20 | Damage: | 3d6",
+      "property | Blast: | Small",
+      "property |AP: | 0 ",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text | 150¥"
+    ],
+    "tags": [
+      "grenade"
+    ],
+    "color": "DarkGreen",
+    "icon": "grenade",
+    "title_size": "12"
+  },
+  {
+    "count": 1,
+    "title": "Jammer Grenade (6)",
+    "contents": [
+      "property | Range: | 5/10/20| Effect: | 6 noise",
+      "property | Blast: | Large | Duration: | 10 rounds",
+      "fill | 1",
+      "text | Banger special, modified from an old cell phone burner.",
+      "fill | 1",
+      "text | Noise drops off every 2m.",
+      "fill | 1",
+      "property | Recharge |  plugged in: 1 round per 5 min",
+      "fill | 1",
+      "section | wireless",
+      "bullet | activate/deactivate remotely",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text | 120¥"
+    ],
+    "tags": [
+      "grenade"
+    ],
+    "color": "DarkGreen",
+    "icon": "grenade"
+  },
+  {
+    "count": 1,
+    "title": "NeuroStun-8 Gas Grenade",
+    "contents": [
+      "property | Range: | 5/10/20|  Resist: | Vigor - 2",
+      "property | Blast: | Large| Effect: | Incap 2d6 hrs",
+      "property |AP: | 0 | Duration: | 10 rounds",
+      "fill | 1",
+      "text | Odorless, colorless",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text | 1,250¥"
+    ],
+    "tags": [
+      "grenade"
+    ],
+    "color": "DarkGreen",
+    "icon": "grenade",
+    "title_size": "10"
+  },
+  {
+    "count": 1,
+    "title": "Paint Grenade",
+    "contents": [
+      "property | Range: | 5/10/20",
+      "property | Blast: | Large| Effect: | Paint",
+      "property |AP: | 0 | ",
+      "fill | 1",
+      "text | Covers everything with paint.",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text | 150¥"
+    ],
+    "tags": [
+      "grenade"
+    ],
+    "color": "DarkGreen",
+    "icon": "grenade",
+    "title_size": ""
+  },
+  {
+    "count": 1,
+    "title": "Pepper Gas Grenade",
+    "contents": [
+      "property | Range: | 5/10/20|  Resist: | Vigor - 2",
+      "property | Blast: | Large| Effect: | Stunned",
+      "property |AP: | 0 | Duration: | 10 rounds",
+      "fill | 1",
+      "text | Derived from hot peppers",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text | 150¥"
+    ],
+    "tags": [
+      "grenade"
+    ],
+    "color": "DarkGreen",
+    "icon": "grenade",
+    "title_size": ""
+  },
+  {
+    "count": 1,
+    "title": "Smoke Grenade",
+    "contents": [
+      "property | Range: | 5/10/20",
+      "property | Blast: | Large| Effect: | -2 visual?",
+      "property |AP: | 0 | Duration: | 10 rounds",
+      "fill | 1",
+      "text | Blinds both regular and thermal vision",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text | 50¥"
+    ],
+    "tags": [
+      "grenade"
+    ],
+    "color": "DarkGreen",
+    "icon": "grenade",
+    "title_size": ""
+  },
+  {
+    "count": 1,
+    "title": "Stun Grenade",
+    "contents": [
+      "property | Range: | 5/10/20|  Resist: | Vigor -2",
+      "property | Blast: | Large| Effect: | Stunned",
+      "property |AP: | 0",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text | 100¥"
+    ],
+    "tags": [
+      "grenade"
+    ],
+    "color": "DarkGreen",
+    "icon": "grenade"
+  },
+  {
+    "count": 1,
+    "title": "Zen Gas Grenade",
+    "contents": [
+      "property | Range: | 5/10/20|  Resist: | _____",
+      "property | Blast: | Large| Effect: | -1 all action",
+      "property |AP: | 0 | Duration: | 10 rounds",
+      "fill | 1",
+      "text | A psychedelic hallucinogen",
+      "fill | 1",
+      "property | Onset: | 5 min ",
+      "property | Effect: | -1 all tests",
+      "property | Duration: | d6 x 10 min",
+      "property | Crash: | none ",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text | 150¥"
+    ],
+    "tags": [
+      "grenade"
+    ],
+    "color": "DarkGreen",
+    "icon": "grenade",
+    "title_size": ""
+  },
+  {
+    "count": 1,
+    "title": "Fake License: 1",
+    "contents": [
+      "fill |1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text | 200¥"
+    ],
+    "tags": [
+      "id"
+    ],
+    "color": "",
+    "icon": "id-card"
+  },
+  {
+    "count": 1,
+    "title": "Fake License: 4",
+    "contents": [
+      "fill |1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text | 800¥"
+    ],
+    "tags": [
+      "id"
+    ],
+    "color": "",
+    "icon": "id-card"
+  },
+  {
+    "count": 1,
+    "title": "Fake SIN: 2",
+    "contents": [
+      "fill |1",
+      "rule",
+      "text | 5,000¥"
+    ],
+    "tags": [
+      "id"
+    ],
+    "color": "",
+    "icon": "id-card"
+  },
+  {
+    "count": 1,
+    "title": "Fake SIN: 4",
+    "contents": [
+      "fill |1",
+      "rule",
+      "text | 10,000¥"
+    ],
+    "tags": [
+      "id"
+    ],
+    "color": "",
+    "icon": "id-card"
+  },
+  {
+    "count": 1,
+    "title": "Antidote patch",
+    "contents": [
+      "fill | 1",
+      "property | Effect: | Negates most toxins.",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 150¥"
+    ],
+    "tags": [
+      "meds"
+    ],
+    "color": "Navy",
+    "icon": "medical-pack"
+  },
+  {
+    "count": 1,
+    "title": "Medkit",
+    "contents": [
+      "fill | 1",
+      "bullet | Counts as kit for healing tests",
+      "bullet | Includes talkative expert system",
+      "text | Handles",
+      "bullet | fractures",
+      "bullet | gunshot wounds",
+      "bullet | chemical wounds",
+      "bullet | poison",
+      "bullet | shock",
+      "bullet | blood loss",
+      "bullet | resuscitations",
+      "fill | 1",
+      "section | wireless",
+      "property | Healing | +1",
+      "fill | 1",
+      "boxes | 5 | ",
+      "rule",
+      "text | 400¥ + 100¥ x uses"
+    ],
+    "tags": [
+      "meds"
+    ],
+    "color": "Navy",
+    "icon": "medical-pack"
+  },
+  {
+    "count": 1,
+    "title": "Stim Patch (1)",
+    "contents": [
+      "fill | 1",
+      "property | Effect: | Cancel 1 Fatigue",
+      "property | Duration: | 10min",
+      "fill | 1",
+      "property | Repeated use: | Next stim patch within 24 hours requires that the user to roll to get the effect",
+      "property | Roll: | Vigor - #stim patches in 24 hours",
+      "property | Failure: | +1 Fatigue (non-lethal)",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 25¥"
+    ],
+    "tags": [
+      "meds"
+    ],
+    "color": "Navy",
+    "icon": "medical-pack"
+  },
+  {
+    "count": 1,
+    "title": "Stim Patch (3)",
+    "contents": [
+      "fill | 1",
+      "property | Effect: | Cancel 1 Fatigue",
+      "property | Duration: | 30min",
+      "fill | 1",
+      "property | Repeated use: | Next stim patch within 24 hours requires that the user to roll to get the effect",
+      "property | Roll: | Vigor - #stim patches in 24 hours",
+      "property | Failure: | +1 Fatigue (non-lethal)",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 75¥"
+    ],
+    "tags": [
+      "meds"
+    ],
+    "color": "Navy",
+    "icon": "medical-pack"
+  },
+  {
+    "count": 1,
+    "title": "Trauma Patch",
+    "contents": [
+      "fill | 1",
+      "property | Roll: | Vigor",
+      "property | Effect: | Bleeding Out -> Stable",
+      "property | Caveat: | Must remain attached until patient has recovered one wound.",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 500¥"
+    ],
+    "tags": [
+      "meds"
+    ],
+    "color": "Navy",
+    "icon": "medical-pack"
+  },
+  {
+    "count": 1,
+    "title": "Burner Commlink",
+    "contents": [
+      "text | Meta Link",
+      "fill | 1",
+      "property | Rating: | 1",
+      "property | Firewall: | 2",
+      "property | Programs: | 0",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 100¥"
+    ],
+    "tags": [
+      "phone"
+    ],
+    "color": "Indigo",
+    "icon": "phone"
+  },
+  {
+    "count": 1,
+    "title": "Dreamdeck",
+    "contents": [
+      "text | Sony Emperor",
+      "fill | 1",
+      "property | Rating: | 2",
+      "property | Firewall: | 5",
+      "property | Programs: | 1",
+      "fill | 1",
+      "rule",
+      "text | 1,050¥"
+    ],
+    "tags": [
+      "phone"
+    ],
+    "color": "Indigo",
+    "icon": "phone"
+  },
+  {
+    "count": 1,
+    "title": "Fancy Commlink",
+    "contents": [
+      "text | Transys Avalon ",
+      "fill | 1",
+      "property | Rating: | 6",
+      "property | Firewall: | 7",
+      "property | Programs: | 3",
+      "fill | 1",
+      "rule",
+      "text | 8,000¥"
+    ],
+    "tags": [
+      "phone"
+    ],
+    "color": "Indigo",
+    "icon": "phone"
+  },
+  {
+    "count": 1,
+    "title": "Ares Light Fire 75",
+    "contents": [
+      "section | Light Pistol",
+      "property | Shots: | 16 | Range: | 12/24/48",
+      "property | ROF: | 1 | Damage: | 2d6",
+      "property | AP: | 1 | Str: | d4",
+      "fill | 1",
+      "section | Wireless",
+      "property | Shoot: | +3/+3/+1 | Shoot: | +1/+1/0",
+      "property | Silent: | -3, alert if move | Silent: | -3",
+      "property | Zoom: | yes",
+      "fill | 1",
+      "section | shots",
+      "boxes | 16  | .9",
+      "boxes | 4 | 1",
+      "rule",
+      "text | 1400¥ + mag(16) x ",
+      "property | Regular: | 8¥",
+      "property | APDS: | 24¥ | AP: | +1",
+      "property | Shock+Gel: | 24¥ | Stun: | Vigor - 2",
+      "property | Capsule NS 10: | 328¥ | Incap: | Vigor - 4",
+      "property | Capsule NS 8: | 200¥ | Incap: | Vigor - 2",
+      " ",
+      ""
+    ],
+    "tags": [
+      "weapon",
+      "lightpistol"
+    ],
+    "color": "Maroon",
+    "title_size": "",
+    "icon": "pistol-gun"
+  },
+  {
+    "count": 1,
+    "title": "FN HAR",
+    "contents": [
+      "section | Rifle",
+      "property | Shots: | 35 | Range: | 24/48/96",
+      "property | ROF: | 3 | Damage: | 2d8+1",
+      "property | AP: | 2  |Str: | d6",
+      "fill | 1",
+      "section | Wireless",
+      "property | Shoot: | +3/+3/+1 | Shoot: | +1/+1/0",
+      "property | MAP: | cancel -2 | MAP: | cancel -2",
+      "property | Scope: | share, zoom, flare, thermo ",
+      "fill | 1",
+      "section | shots",
+      "boxes | 35  | .78",
+      "boxes | 4 | 1",
+      "rule",
+      "text | 3700¥ + mag(35) x ",
+      "property | Regular: | 70¥",
+      "property | APDS: | 210¥ | AP: | +1",
+      "property | Shock+Gel :| 210¥ | Stun: | Vigor -2",
+      "property | Explosive: | 140¥ | Blast: | small",
+      "",
+      " ",
+      ""
+    ],
+    "tags": [
+      "weapon",
+      "rifle"
+    ],
+    "color": "Maroon",
+    "title_size": "",
+    "icon": "pistol-gun"
+  },
+  {
+    "count": 1,
+    "title": "Fichetti Tiffany Needler",
+    "contents": [
+      "section | Holdout",
+      "property | Shots: | 4 | Range: | 10/20/40",
+      "property | ROF: | 1 | Damage: | 3d4/2d4/1d4",
+      "property | AP: | 0",
+      "fill | 1",
+      "section | Wireless",
+      "property | Shoot: | +2 | Shoot: | +2",
+      "property | Notice: | -4 | Notice: | -1",
+      "property | Color: | free action",
+      "fill | 1",
+      "section | shots",
+      "boxes | 4  | 1",
+      "boxes | 4 | 1",
+      "rule",
+      "text | 585¥ + mag(4) x 6¥",
+      ""
+    ],
+    "tags": [
+      "weapon",
+      "holdout"
+    ],
+    "color": "Maroon",
+    "title_size": "11",
+    "icon": "pistol-gun"
+  },
+  {
+    "count": 1,
+    "title": "Ingram Smartgun XI",
+    "contents": [
+      "section | Submachine Gun",
+      "property | Shots: | 32 | Range: | 12/24/48",
+      "property | ROF: | 2 | Damage: | 2d6",
+      "property | AP: | 1 | Str: | d4",
+      "fill | 1",
+      "section | Wireless",
+      "property | Shoot: | +3/+3/+1 | Shoot: | +1/+1/0",
+      "property | MAP: | cancel -1 | MAP: | cancel -1",
+      "property | Silent: | -2, alert if move | Silent: | -2",
+      "property | Zoom: |yes ",
+      "fill | 1",
+      "section | shots",
+      "boxes | 16  | .7",
+      "boxes | 4 | .7",
+      "rule",
+      "property | | 1125¥ + mag(32) x | Regular: |32¥",
+      "property | APDS: | 96¥ | AP: | +1",
+      "property | Shock+Gel: | 96¥ | Stun: | Vigor -2",
+      "property | Flech+Expl: | 96¥ | Shoot&Blast: |+2,small",
+      "property |  |  | Damage | 3d6/2d6/1d6",
+      "",
+      " ",
+      ""
+    ],
+    "tags": [
+      "weapon",
+      "submachinegun"
+    ],
+    "color": "Maroon",
+    "title_size": "",
+    "icon": "pistol-gun"
+  },
+  {
+    "count": 1,
+    "title": "Manhunter",
+    "contents": [
+      "section | Heavy Pistol",
+      "property | Shots: | 14 | Range: | 15/30/60",
+      "property | ROF: | 1 | Damage: | 2d8",
+      "property | AP: | 2",
+      "fill | 1",
+      "section | Wireless",
+      "property | Shoot: | +3/+3/+1 | Shoot: | +1/+1/0",
+      "property | Zoom: | yes",
+      "fill | 1",
+      "section | shots",
+      "boxes | 14  | 1",
+      "boxes | 4 | 1",
+      "rule",
+      "property | | 750¥ + mag(14) x | Regular: | 14¥",
+      "property | Shock+Gel: | 42¥ | Stun: | Vigor - 2",
+      "property | APDS: | 42¥ | AP: | +1",
+      "property | Explosive: | 28¥ | Blast: | small",
+      "property | Flechette: | 21¥ | Shoot: |+2",
+      "property |  |  | Damage | 3d6/2d6/1d6",
+      "property | Flech+Expl: | 42¥  ",
+      ""
+    ],
+    "tags": [
+      "weapon",
+      "heavypistol"
+    ],
+    "color": "Maroon",
+    "title_size": "",
+    "icon": "pistol-gun"
+  },
+  {
+    "count": 1,
+    "title": "Parashield Dart rifle",
+    "contents": [
+      "section | Rifle, Dart",
+      "property | Shots: | 6 | Range: | 24/48/96",
+      "property | ROF: | 1 | Damage: | --",
+      "property | AP: | 0  |Str: | d4",
+      "fill | 1",
+      "section | Wireless",
+      "property | Shoot: | +3/+3/+1 | Shoot: | +1/+1/0",
+      "property | Silent: | -2, alert if move | Silent: | -2",
+      "property | Scope: | share, zoom, thermo",
+      "fill | 1",
+      "section | shots",
+      "boxes | 6  | 1",
+      "boxes | 4 | 1",
+      "rule",
+      "text | 2285¥ + mag(6) x ",
+      "property | Narcojet: | 303¥ | Roll: |V, Stun 2d6min",
+      "property | G- Scope: | 1203¥ | Roll: | V-2, Incap 2d6 hr",
+      "property | NS X: | 603¥ | Roll: | V-4, Incap 2d6 hr",
+      ""
+    ],
+    "tags": [
+      "weapon",
+      "rifle",
+      "dart"
+    ],
+    "color": "Maroon",
+    "title_size": "",
+    "icon": "pistol-gun"
+  },
+  {
+    "count": 1,
+    "title": "RPK HMG",
+    "contents": [
+      "section | Machine gun",
+      "property | Shots: | 50, 100 (belt) | Range: | 50/100/200",
+      "property | ROF: | 3 | Damage: | 2d10",
+      "property | AP: | 4 | Str: | d10",
+      "fill | 1",
+      "section | Wireless",
+      "property | Shoot: | +3/+3/+1 | Shoot: | +1/+1/0",
+      "property | MAP: | cancel -2 | MAP: | cancel -2",
+      "property | Scope: | share, zoom, flare, low light",
+      "fill | 1",
+      "boxes | 100 | .47",
+      "boxes | 4 | 1",
+      "rule",
+      "text | 9.975¥ + belt(100) x",
+      "property | Regular: | 150¥",
+      "property | APDS: | 450¥ | AP: | +1",
+      "property | Explosive: | 300¥ | Blast: | small"
+    ],
+    "tags": [
+      "weapon",
+      "machinegun"
+    ],
+    "color": "Maroon",
+    "title_size": "",
+    "icon": "pistol-gun"
+  },
+  {
+    "count": 1,
+    "title": "RCC",
+    "contents": [
+      "text | Maersk Spider",
+      "fill | 1",
+      "property| Firewall: | 9",
+      "property | Rating: | 4",
+      "property | Noise: | cancel -4",
+      "property | Slave: | 12 drones",
+      "property | Programs: | 4",
+      "fill | 1",
+      "rule",
+      "text | 34,000¥"
+    ],
+    "tags": [
+      "tech"
+    ],
+    "color": "Indigo",
+    "icon": "processor"
+  },
+  {
+    "count": 1,
+    "title": "Armor Clothing",
+    "contents": [
+      "fill | 5",
+      "property | Armor: | +4 / +2",
+      "fill | 1",
+      "property | Pockets: | -4 noise",
+      "property | Electrochem | ",
+      "fill | 5",
+      "section | Wireless",
+      "property | Color: | free action | Color: | 1 action ",
+      "property |Video: | yes ",
+      "fill | 1",
+      "rule",
+      "text | 675¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "shoulder-armor"
+  },
+  {
+    "count": 1,
+    "title": "Helmet",
+    "contents": [
+      "fill | 5",
+      "property | Armor: | +7 / +3",
+      "property | Ultrasound: | 50",
+      "property | Motion: | 25",
+      "fill | 5",
+      "rule",
+      "text | 400¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "shoulder-armor"
+  },
+  {
+    "count": 1,
+    "title": "Gamma Scopolamine",
+    "contents": [
+      "fill | 1",
+      "property | Vector: | Inject",
+      "property| Resist: | Vigor - 2",
+      "property | Effect: | Stunned, 2d6 hours",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text| 200¥"
+    ],
+    "tags": [
+      "toxin"
+    ],
+    "color": "Navy",
+    "icon": "skull-with-syringe"
+  },
+  {
+    "count": 1,
+    "title": "Narcojet",
+    "contents": [
+      "fill | 1",
+      "property | Vector: | Inject",
+      "property| Resist: | Vigor + 0",
+      "property | Effect: | Stunned, 2d6 min",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text| 50¥"
+    ],
+    "tags": [
+      "toxin"
+    ],
+    "color": "Navy",
+    "icon": "skull-with-syringe"
+  },
+  {
+    "count": 1,
+    "title": "Tranq Patch (1)",
+    "contents": [
+      "fill | 1",
+      "property | Vector: | Contact",
+      "property| Resist: | Vigor - 1",
+      "property | Effect: | Incapacitated 2d6 min",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text| 50¥"
+    ],
+    "tags": [
+      "toxin"
+    ],
+    "color": "Navy",
+    "icon": "skull-with-syringe"
+  },
+  {
+    "count": 1,
+    "title": "Tranq Patch (3)",
+    "contents": [
+      "fill | 1",
+      "property | Vector: | Contact",
+      "property| Resist: | Vigor - 3",
+      "property | Effect: | Incapacitated 2d6 min",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text| 150¥"
+    ],
+    "tags": [
+      "toxin"
+    ],
+    "color": "Navy",
+    "icon": "skull-with-syringe"
+  },
+  {
+    "count": 1,
+    "title": "Bug Scanner",
+    "contents": [
+      "fill  |1",
+      "bullet | Works up to 20m",
+      "bullet | Electronics to find device.",
+      "fill  | 1",
+      "rule",
+      "text | 200¥"
+    ],
+    "tags": [
+      "spy"
+    ],
+    "color": "#5c4033",
+    "icon": "spy"
+  },
+  {
+    "count": 1,
+    "title": "Bug: audio",
+    "contents": [
+      "fill  |1 ",
+      "bullet | Records 24h of data",
+      "bullet | omnimic",
+      "fill  | 1",
+      "section | wireless",
+      "property | Transmit: | Matrix | Transmit: | 1m ",
+      "fill  | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 54¥"
+    ],
+    "tags": [
+      "spy"
+    ],
+    "color": "#5c4033",
+    "icon": "spy"
+  },
+  {
+    "count": 1,
+    "title": "Bug: audio/visual",
+    "contents": [
+      "fill | 1",
+      "bullet | Records 24h of data",
+      "bullet | camera",
+      "bullet | omnimic",
+      "fill  | 1",
+      "section | wireless",
+      "property | Transmit: | Matrix | Transmit: | 1m ",
+      "fill  | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 154¥"
+    ],
+    "tags": [
+      "spy"
+    ],
+    "color": "#5c4033",
+    "icon": "spy"
+  },
+  {
+    "count": 1,
+    "title": "Bug: motion tag",
+    "contents": [
+      "fill  |1 ",
+      "bullet | Records 24h of data",
+      "bullet | ultrasound",
+      "bullet | motion detector",
+      "bullet | detects motion up to 50m",
+      "fill  | 1",
+      "section | wireless",
+      "property | Transmit: | Matrix | Transmit: | 1m ",
+      "fill  | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 54¥"
+    ],
+    "tags": [
+      "spy"
+    ],
+    "color": "#5c4033",
+    "icon": "spy"
+  },
+  {
+    "count": 1,
+    "title": "Datachip",
+    "contents": [
+      "fill | 1",
+      "text | Used to store data offline, a single datachip can hold an enormous quantity of data in a two-centimeter-by-six-centimeter chip. Datachips have no wireless capability, so you need to plug them into a universal data connector (found on any device) if you want to read or write to them.",
+      "",
+      "fill  | 1",
+      "boxes | 100 | 0.67",
+      "rule",
+      "text | 0.5¥"
+    ],
+    "tags": [
+      "spy"
+    ],
+    "color": "#5c4033",
+    "icon": "spy"
+  },
+  {
+    "count": 1,
+    "title": "Datatap",
+    "contents": [
+      "fill  |1",
+      "text | Can tap into a cable w/o leaving a mark",
+      "fill | 1",
+      "section | wireless",
+      "text | Self destruct as a free action",
+      "bullet | Can sever the cable",
+      "bullet | Can leave cable intact, leaving only black dust behind",
+      "fill  | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text | 300¥"
+    ],
+    "tags": [
+      "spy"
+    ],
+    "color": "#5c4033",
+    "icon": "spy"
+  },
+  {
+    "count": 1,
+    "title": "Jammer: Radial (4)",
+    "contents": [
+      "fill  |1",
+      "property | Noise: | -4",
+      "property | Dropoff: | 10m",
+      "fill  | 1",
+      "section | wireless",
+      "text | Can set jammer not to interfere with devices/personas you designate",
+      "fill | 1",
+      "rule",
+      "text | 800¥"
+    ],
+    "tags": [
+      "spy"
+    ],
+    "color": "#5c4033",
+    "icon": "spy",
+    "title_size": ""
+  },
+  {
+    "count": 1,
+    "title": "RFID Tags",
+    "contents": [
+      "bullet | Can be found via the Matrix (Trace Icon)",
+      "bullet | Owner can be \"nobody\"",
+      "bullet | Can hold a file",
+      "bullet : Some can transmit GPS to Matrix",
+      "bullet | Range from 2mm-3cm square",
+      "fill  | 1",
+      "boxes | 100 | 0.67",
+      "rule",
+      "text | 0.1¥"
+    ],
+    "tags": [
+      "spy"
+    ],
+    "color": "#5c4033",
+    "icon": "spy"
+  },
+  {
+    "count": 1,
+    "title": "Secure Stealth Tags",
+    "contents": [
+      "fill  |1",
+      "bullet | Cannot be erased with a tag eraser",
+      "bullet | Only transmit data in quick bursts",
+      "bullet | If implanted, removing requires a Healing check ",
+      "fill  | 1",
+      "boxes | 100 | 0.67",
+      "rule",
+      "text | 1¥"
+    ],
+    "tags": [
+      "spy"
+    ],
+    "color": "#5c4033",
+    "icon": "spy"
+  },
+  {
+    "count": 1,
+    "title": "Tag Eraser",
+    "contents": [
+      "fill  |1",
+      "bullet | Needs to be within 5 mm",
+      "bullet | Recharges in 10s if plugged in",
+      "fill  | 1",
+      "rule",
+      "text | 450¥"
+    ],
+    "tags": [
+      "spy"
+    ],
+    "color": "#5c4033",
+    "icon": "spy"
+  },
+  {
+    "count": 1,
+    "title": "White Noise Generator (6)",
+    "contents": [
+      "fill  |1",
+      "property | Audio check: | -6",
+      "fill  | 1",
+      "rule",
+      "text | 300¥"
+    ],
+    "tags": [
+      "spy"
+    ],
+    "color": "#5c4033",
+    "icon": "spy",
+    "title_size": "10"
+  },
+  {
+    "count": 1,
+    "title": "Backpak (Faraday 4)",
+    "contents": [
+      "fill | 1",
+      "property | Noise: | -4",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 120¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Bodybag (Faraday 4)",
+    "contents": [
+      "fill | 1",
+      "property | Noise: | -4",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 480¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Duffel (Faraday 4)",
+    "contents": [
+      "fill | 1",
+      "property | Noise: | -4",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 240¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Earbuds",
+    "contents": [
+      "fill | 10",
+      "section | Wireless",
+      "property | Notice: | +1 | Notice: | +1",
+      "property | Filter: | 1 sound",
+      "fill | 1",
+      "rule",
+      "text | 900¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Endoscope",
+    "contents": [
+      "text| This fiber-optic cable is at least one meter long, with the first twenty centimeters on either side made up of myomeric rope and an optical lens. It allows the user to look around corners, under door slits, or into narrow spaces. It is available in any number of lengths, although longer segments can be unwieldy",
+      "fill | 1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Gecko tape Gloves",
+    "contents": [
+      "bullet | Gloves, knee pads, slip-on soles",
+      "bullet | Can climb any surface",
+      "bullet | +4 Ath to climb/hang",
+      "bullet | Useless when wet",
+      "fill | 1",
+      "section | wireless",
+      "text | Can neutralize adhesive as free action",
+      "fill | 1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Glue Solvent",
+    "contents": [
+      "fill | 1",
+      "text| This spray can has enough solvent to dissolve about a square meter of fast-drying aerosol superglue. ",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 90¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Glue Sprayer",
+    "contents": [
+      "fill  | 1",
+      "bullet | 1 sq meter",
+      "bullet | 1 combat round to harden",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 150¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Goggles",
+    "contents": [
+      "bullet | smartlink",
+      "bullet | flare comp",
+      "bullet | imagelink",
+      "bullet | low light",
+      "bullet | ultrasound link",
+      "fill | 5",
+      "section | wireless",
+      "property | Vision: | low light | Vision: | low light",
+      "property | Flare: | yes | Flare: | yes",
+      "property | Smartgun: | yes",
+      "property | Share | yes",
+      "property | Motion: | 50",
+      "fill  | 1",
+      "rule",
+      "text | 3,375¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Microtransceiver",
+    "contents": [
+      "fill | 1",
+      "property | Range: | 1 km",
+      "bullet | Send voice to other microtransceivers",
+      "bullet | Needs to be slaved to a better device",
+      "fill  | 1",
+      "rule",
+      "text | 100¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Miniwelder",
+    "contents": [
+      "fill | 1",
+      "text | This portable device creates a small electric arc to melt metals, either to cut through metal or to weld it together. Its power supply allows it to operate for thirty minutes. ",
+      "fill | 1",
+      "boxes | 10| 1.65",
+      "rule",
+      "text | 250¥ + uses x 80¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Monofilament Chainsaw",
+    "contents": [
+      "fill | 1",
+      "text | The teeth on the chain of this portable motorized saw are topped with monofilament wire. Ideal for cutting through trees, doors, and other immovable objects. ",
+      "fill | 1",
+      "rule",
+      "text | 500¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles",
+    "title_size": "10"
+  },
+  {
+    "count": 1,
+    "title": "Plasteel Restraints",
+    "contents": [
+      "fill | 1",
+      "text| Modern plasteel restraints are flash-fused and remain in place until the subject is cut free.",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 50¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Respirator",
+    "contents": [
+      "fill  |1",
+      "property | Resist Gas: | +6",
+      "fill | 1",
+      "rule ",
+      "text | 300¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Simrig",
+    "contents": [
+      "fill | 1",
+      "text | This simsense recorder can record experience data (sensory and emotive) from you or whoever is wearing it. Simrig rigs are used to make most of the simsense chips sold on the market. You’ll need to have a working sim module (with the DNI interface) to make a recording.",
+      "fill | 1",
+      "rule",
+      "text | 1000¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Subvocal mic",
+    "contents": [
+      "fill | 1",
+      "text | A skin-colored patch with a microphone attached with adhesive to your throat. It lets you communicate via subvocalized speech.",
+      "fill  | 1",
+      "rule",
+      "text | 50¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Trodes",
+    "contents": [
+      "fill | 1",
+      "text | This electrode-and-ultrasound net gives you a DNI, or direct neural interface, connection. It can be any style of headband, hat, or headwear, along with being able to integrate into existing headwear, like a helmet or stylish fedora.",
+      "fill | 1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 70¥"
+    ],
+    "tags": [
+      "tool"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Zip ties",
+    "contents": [
+      "",
+      "fill | 1",
+      "boxes | 100 | 0.67",
+      "rule",
+      "text | 0.5¥"
+    ],
+    "tags": [
+      "gear"
+    ],
+    "color": "#5c4033",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Electronic Paper",
+    "contents": [
+      "fill  |1 ",
+      "text | A thin electronic sheet ranging from sticky note to poster size that can be folded or rolled up. It displays images, text, data, and video and can act as a touchscreen. It’s basically an ultrathin monitor. All electronic paper is wireless and can be written on or erased wirelessly.",
+      "fill |1",
+      "boxes | 100 | .67",
+      "rule",
+      "text | 5¥"
+    ],
+    "tags": [
+      "tool"
+    ],
+    "color": "#5c4033",
+    "icon": "toolbox"
+  },
+  {
+    "count": 1,
+    "title": "Satellite link",
+    "contents": [
+      "fill  |1 ",
+      "text | Limits noise due to distance to a maximum -5 penalty.",
+      "fill |1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 500¥"
+    ],
+    "tags": [
+      "tool"
+    ],
+    "color": "#5c4033",
+    "icon": "toolbox"
+  },
+  {
+    "count": 1,
+    "title": "Survival Kit",
+    "contents": [
+      "fill  |1 ",
+      "text | A rugged bag full of survival essentials. The bag includes",
+      "bullet | knife",
+      "bullet | lighter",
+      "bullet | matches",
+      "bullet | compass",
+      "bullet | string saw",
+      "bullet | lightweight thermal blanket",
+      "bullet | seven days’ worth of soy ration bars",
+      "bullet | a water-purification unit",
+      "bullet| fishing line and a hook",
+      "bullet| misc survival equipment",
+      "fill |1",
+      "boxes | 10 | 1.65",
+      "rule",
+      "text | 200¥"
+    ],
+    "tags": [
+      "tool"
+    ],
+    "color": "#5c4033",
+    "icon": "toolbox"
+  },
+  {
+    "count": 1,
+    "title": "Survival Knife",
+    "contents": [
+      "section | Knife",
+      "property | Damage: | STR + d4",
+      "fill | 1 ",
+      "bullet | GPS",
+      "bullet | mini multitool",
+      "bullet | lighter",
+      "bullet | black blade, recharges in sun",
+      "bullet | blade lights up for 2 hours",
+      "fill | 1",
+      "section | wireless |",
+      "property | Maps: | ARO of surroundings with GPS ",
+      "property | Biomonitor: | when held",
+      "fill | 1",
+      "rule",
+      "text | 220¥",
+      ""
+    ],
+    "tags": [
+      "weapon",
+      "knife",
+      "survival"
+    ],
+    "color": "Maroon",
+    "icon": "trench-knife"
+  },
+  {
+    "count": 1,
+    "title": "Ares Predator VI",
+    "contents": [
+      "section | Light Pistol",
+      "property | Shots: | 15 | Range: | 12/24/48",
+      "property | ROF: | 1 | Damage: | 2d8",
+      "property | AP: | 2 | Str: | d6",
+      "fill | 1",
+      "section | Wireless",
+      "property | Shoot: | +3/+3/+1 | Shoot: | +1/+1/0",
+      "property | Silent: | -2, alert if move | Silent: | -2",
+      "property | Zoom: | yes",
+      "fill | 1",
+      "section | shots",
+      "boxes | 15  | .9",
+      "boxes | 15  | .9",
+      "boxes | 4 | 1",
+      "rule",
+      "text | 1625¥ + mag(15) x ",
+      "property | Regular: | 15¥ ",
+      "property | Shock+Gel: | 45¥ | Stun: | Vigor - 2",
+      "property | APDS: | 45¥ | AP: | +1",
+      "property | Explosive: | 30¥ | Blast: | small",
+      ""
+    ],
+    "tags": [
+      "weapon",
+      "heavypistol"
+    ],
+    "color": "Maroon",
+    "title_size": "",
+    "icon": "pistol-gun"
+  },
+  {
+    "count": 1,
+    "title": "Ares Predator Custom Rounds",
+    "contents": [
+      "fill | 1",
+      "property | Tracker: | 45¥ ",
+      "boxes | 15 | 1",
+      "fill | 1",
+      "property | Stun+Gel: | 33¥ | Stun: | Vigor - 2",
+      "boxes | 15 | 1",
+      "fill  | 1",
+      "property | APDS: | 33¥ | AP: | +1",
+      "boxes | 15 | 1",
+      "fill | 1",
+      "property | Flechette+explosive | 33¥ | Blast: | small",
+      "property |  |   |  Damage: | 3d6/2d6/1d6",
+      "boxes | 15 | 1",
+      "fill | 1",
+      "property | Capsule NS X: | 52¥ | Incap: | Vigor - 4",
+      "boxes | 15 | 1",
+      ""
+    ],
+    "tags": [
+      "weapon",
+      "ammo"
+    ],
+    "color": "Maroon",
+    "title_size": "10",
+    "icon": "ammo-box"
+  }
+]
