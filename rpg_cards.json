@@ -323,7 +323,8 @@
       "property | Crash: | Depressed 1 hr",
       "fill | 1",
       "text | Taken from a single-dose inhaler. Makes people jumpy and hyper. Role-playing a jazz user means turning it up a notch, portraying someone with too much energy to burn—and too much energy to focus. When jazz wears off, the user is despondent.",
-      "fill | 1boxes | 10 | 1.65",
+      "fill | 1",
+      "boxes | 10 | 1.65",
       "rule",
       "text | 75¥"
     ],
