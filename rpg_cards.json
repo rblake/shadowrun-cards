@@ -1,6 +1,67 @@
 [
   {
     "count": 1,
+    "title": "Ares Pred Standard Loadout",
+    "contents": [
+      "fill | 1",
+      "property | Tracker: | 15¥ ",
+      "boxes | 1 | 1",
+      "fill | 1",
+      "property | Shock+Gel: | 3¥ | Stun: | Vigor - 2",
+      "boxes | 2 | 1",
+      "fill  | 1",
+      "property | APDS: | 3¥ | AP: | +1",
+      "boxes | 8 | 1",
+      "fill | 1",
+      "property | Flechette+expl: | 3¥ | Blast: | small",
+      "property |  |   |  Damage: | 3d6/2d6/1d6",
+      "boxes | 2 | 1",
+      "fill | 1",
+      "property | Capsule NS X: | 22¥ | Incap: | Vigor - 4",
+      "boxes | 2 | 1",
+      "rule",
+      "text | 30¥(mag) + 95¥ (bullets)"
+    ],
+    "tags": [
+      "weapon",
+      "ammo"
+    ],
+    "color": "Maroon",
+    "title_size": "10",
+    "icon": "ammo-box"
+  },
+  {
+    "count": 1,
+    "title": "Ares Predator Custom Rounds",
+    "contents": [
+      "fill | 1",
+      "property | Tracker: | 15¥ ",
+      "boxes | 15 | 1",
+      "fill | 1",
+      "property | Shokd+Gel: | 3¥ | Stun: | Vigor - 2",
+      "boxes | 15 | 1",
+      "fill  | 1",
+      "property | APDS: | 3¥ | AP: | +1",
+      "boxes | 15 | 1",
+      "fill | 1",
+      "property | Flechette+expl: | 3¥ | Blast: | small",
+      "property |  |   |  Damage: | 3d6/2d6/1d6",
+      "boxes | 15 | 1",
+      "fill | 1",
+      "property | Capsule NS X: | 22¥ | Incap: | Vigor - 4",
+      "boxes | 15 | 1",
+      ""
+    ],
+    "tags": [
+      "weapon",
+      "ammo"
+    ],
+    "color": "Maroon",
+    "title_size": "10",
+    "icon": "ammo-box"
+  },
+  {
+    "count": 1,
     "title": "Tracker Round",
     "contents": [
       "fill | 1",
@@ -1422,6 +1483,40 @@
   },
   {
     "count": 1,
+    "title": "Ares Predator VI",
+    "contents": [
+      "section | Heavy Pistol",
+      "property | Shots: | 15 | Range: | 12/24/48",
+      "property | ROF: | 1 | Damage: | 2d8",
+      "property | AP: | 2 | Str: | d6",
+      "fill | 1",
+      "section | Wireless",
+      "property | Shoot: | +2",
+      "property | Silent: | -2, alert if move | Silent: | -2",
+      "property | Zoom: | yes",
+      "fill | 1",
+      "section | shots",
+      "boxes | 15  | .9",
+      "boxes | 15  | .9",
+      "boxes | 4 | 1",
+      "rule",
+      "text | 1625¥ (5 clips) + mag(15) x ",
+      "property | Regular: | 45¥",
+      "property | Shock+Gel: | 45¥ | Stun: | Vigor - 2",
+      "property | APDS: | 45¥ | AP: | +1",
+      "property | Explosive: | 30¥ | Blast: | small",
+      ""
+    ],
+    "tags": [
+      "weapon",
+      "heavypistol"
+    ],
+    "color": "Maroon",
+    "title_size": "",
+    "icon": "pistol-gun"
+  },
+  {
+    "count": 1,
     "title": "FN HAR",
     "contents": [
       "section | Rifle",
@@ -2377,69 +2472,5 @@
     ],
     "color": "Maroon",
     "icon": "trench-knife"
-  },
-  {
-    "count": 1,
-    "title": "Ares Predator VI",
-    "contents": [
-      "section | Light Pistol",
-      "property | Shots: | 15 | Range: | 12/24/48",
-      "property | ROF: | 1 | Damage: | 2d8",
-      "property | AP: | 2 | Str: | d6",
-      "fill | 1",
-      "section | Wireless",
-      "property | Shoot: | +3/+3/+1 | Shoot: | +1/+1/0",
-      "property | Silent: | -2, alert if move | Silent: | -2",
-      "property | Zoom: | yes",
-      "fill | 1",
-      "section | shots",
-      "boxes | 15  | .9",
-      "boxes | 15  | .9",
-      "boxes | 4 | 1",
-      "rule",
-      "text | 1625¥ + mag(15) x ",
-      "property | Regular: | 15¥ ",
-      "property | Shock+Gel: | 45¥ | Stun: | Vigor - 2",
-      "property | APDS: | 45¥ | AP: | +1",
-      "property | Explosive: | 30¥ | Blast: | small",
-      ""
-    ],
-    "tags": [
-      "weapon",
-      "heavypistol"
-    ],
-    "color": "Maroon",
-    "title_size": "",
-    "icon": "pistol-gun"
-  },
-  {
-    "count": 1,
-    "title": "Ares Predator Custom Rounds",
-    "contents": [
-      "fill | 1",
-      "property | Tracker: | 45¥ ",
-      "boxes | 15 | 1",
-      "fill | 1",
-      "property | Stun+Gel: | 33¥ | Stun: | Vigor - 2",
-      "boxes | 15 | 1",
-      "fill  | 1",
-      "property | APDS: | 33¥ | AP: | +1",
-      "boxes | 15 | 1",
-      "fill | 1",
-      "property | Flechette+explosive | 33¥ | Blast: | small",
-      "property |  |   |  Damage: | 3d6/2d6/1d6",
-      "boxes | 15 | 1",
-      "fill | 1",
-      "property | Capsule NS X: | 52¥ | Incap: | Vigor - 4",
-      "boxes | 15 | 1",
-      ""
-    ],
-    "tags": [
-      "weapon",
-      "ammo"
-    ],
-    "color": "Maroon",
-    "title_size": "10",
-    "icon": "ammo-box"
   }
 ]
