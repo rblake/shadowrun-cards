@@ -1820,16 +1820,16 @@
     "count": 1,
     "title": "RCC",
     "contents": [
-      "text | Maersk Spider",
+      "text | Horizon Overseer",
       "fill | 1",
-      "property| Firewall: | 9",
+      "property| Firewall: | 8",
       "property | Rating: | 4",
       "property | Noise: | cancel -4",
       "property | Slave: | 12 drones",
       "property | Programs: | 4",
       "fill | 1",
       "rule",
-      "text | 34,000¥"
+      "text | 32,000¥"
     ],
     "tags": [
       "tech"
