@@ -482,7 +482,8 @@
       "text | 250¥"
     ],
     "tags": [
-      "prog hacking"
+      "prog",
+      "hacking"
     ],
     "color": "Indigo",
     "icon": "compact-disc"
@@ -499,7 +500,8 @@
       "text | 250¥"
     ],
     "tags": [
-      "prog hacking"
+      "prog",
+      "hacking"
     ],
     "color": "Indigo",
     "icon": "compact-disc"
@@ -514,7 +516,8 @@
       "text | 1,000¥"
     ],
     "tags": [
-      "prog auto"
+      "prog",
+      "auto"
     ],
     "color": "Indigo",
     "icon": "compact-disc"
@@ -531,7 +534,8 @@
       "text | 60¥"
     ],
     "tags": [
-      "prog basic"
+      "prog",
+      "basic"
     ],
     "color": "Indigo",
     "icon": "compact-disc"
@@ -546,7 +550,8 @@
       "text | 2,000¥"
     ],
     "tags": [
-      "prog auto"
+      "prog",
+      "auto"
     ],
     "color": "Indigo",
     "icon": "compact-disc"
@@ -563,7 +568,8 @@
       "text | 60¥"
     ],
     "tags": [
-      "prog basic"
+      "prog",
+      "basic"
     ],
     "color": "Indigo",
     "icon": "compact-disc"
