@@ -2181,7 +2181,7 @@
       "fill | 1",
       "boxes | 10 | 1.65",
       "rule",
-      "text | 120¥"
+      "text | 60¥"
     ],
     "tags": [
       "gear"
@@ -2198,7 +2198,7 @@
       "fill | 1",
       "boxes | 10 | 1.65",
       "rule",
-      "text | 480¥"
+      "text | 240¥"
     ],
     "tags": [
       "gear"
@@ -2215,7 +2215,7 @@
       "fill | 1",
       "boxes | 10 | 1.65",
       "rule",
-      "text | 240¥"
+      "text | 120¥"
     ],
     "tags": [
       "gear"
