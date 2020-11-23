@@ -105,7 +105,9 @@
       "text | 66,500¥"
     ],
     "tags": [
-      "vehicle ground wheel"
+      "vehicle",
+      "ground",
+      "wheel"
     ],
     "color": "",
     "icon": "car-wheel"
@@ -123,7 +125,8 @@
       "text | 500¥"
     ],
     "tags": [
-      "sensor audio"
+      "sensor",
+      "audio"
     ],
     "color": "",
     "icon": "cctv-camera"
@@ -140,7 +143,8 @@
       "text | 250¥"
     ],
     "tags": [
-      "sensor image"
+      "sensor",
+      "image"
     ],
     "color": "",
     "icon": "cctv-camera"
@@ -157,7 +161,8 @@
       "text | 250¥"
     ],
     "tags": [
-      "sensor image"
+      "sensor",
+      "image"
     ],
     "color": "",
     "icon": "cctv-camera"
@@ -178,7 +183,8 @@
       "text | 250¥"
     ],
     "tags": [
-      "sensor audio"
+      "sensor",
+      "audio"
     ],
     "color": "",
     "icon": "cctv-camera",
@@ -196,7 +202,8 @@
       "text | 500¥"
     ],
     "tags": [
-      "sensor image"
+      "sensor",
+      "image"
     ],
     "color": "",
     "icon": "cctv-camera"
@@ -214,7 +221,8 @@
       "text | 500¥"
     ],
     "tags": [
-      "sensor image"
+      "sensor",
+      "image"
     ],
     "color": "",
     "icon": "cctv-camera"
@@ -231,7 +239,8 @@
       "text | 250¥"
     ],
     "tags": [
-      "sensor image"
+      "sensor",
+      "image"
     ],
     "color": "",
     "icon": "cctv-camera"
