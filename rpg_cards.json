@@ -2016,29 +2016,6 @@
   },
   {
     "count": 1,
-    "title": "Bug: motion tag",
-    "contents": [
-      "fill  |1 ",
-      "bullet | Records 24h of data",
-      "bullet | ultrasound",
-      "bullet | motion detector",
-      "bullet | detects motion up to 50m",
-      "fill  | 1",
-      "section | wireless",
-      "property | Transmit: | Matrix | Transmit: | 1m ",
-      "fill  | 1",
-      "boxes | 10 | 1.65",
-      "rule",
-      "text | 54¥"
-    ],
-    "tags": [
-      "spy"
-    ],
-    "color": "#5c4033",
-    "icon": "spy"
-  },
-  {
-    "count": 1,
     "title": "Bug: ultrasound",
     "contents": [
       "fill | 1",
