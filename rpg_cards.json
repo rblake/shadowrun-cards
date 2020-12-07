@@ -517,11 +517,32 @@
   },
   {
     "count": 1,
-    "title": "Armor",
+    "title": "Analyze",
     "contents": [
       "section | Program, Hacking",
       "fill | 1",
-      "property | Firewall: | +2",
+      "text | +1 to Matrix perception",
+      "fill |1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "prog",
+      "hacking"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Biofeedback",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "text | Causes additional damage with Matrix attack",
+      "fill | 1",
+      "property| Cold-sim: | 2d6 stun",
+      "property | Hot-sim: | 2d6 lethal",
       "fill |1",
       "rule",
       "text | 250¥"
@@ -539,7 +560,25 @@
     "contents": [
       "section | Program, Hacking",
       "fill | 1",
-      "text | 1 free reroll to soak Matrix damage",
+      "property| Filter:| +1",
+      "fill |1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "prog",
+      "hacking"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Blocklist",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "property | Firewall: | +1",
       "fill |1",
       "rule",
       "text | 250¥"
@@ -587,6 +626,24 @@
   },
   {
     "count": 1,
+    "title": "Decryption",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "text | +1 on Crack File action",
+      "fill |1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "prog",
+      "hacking"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
     "title": "Driving:  d8",
     "contents": [
       "section | Program, Autosoft",
@@ -621,11 +678,67 @@
   },
   {
     "count": 1,
+    "title": "Encryption",
+    "contents": [
+      "section | Program, Basic",
+      "fill | 1",
+      "text | 1 free reroll for Encypt File action",
+      "fill |1",
+      "rule",
+      "text | 60¥"
+    ],
+    "tags": [
+      "prog",
+      "basic"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Error Correction",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "text | 1 free roll to soak Matrix damage.",
+      "fill | 1 ",
+      "text | The program crashes when used and must be loaded again.",
+      "fill |1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "prog",
+      "hacking"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
     "title": "Exploit",
     "contents": [
       "section | Program, Hacking",
       "fill | 1",
-      "text | Reduce firewall of defender by 2",
+      "text | +2 to bypass Wall ICE",
+      "fill |1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "prog",
+      "hacking"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Fork",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "text | Hit two targets with a single Matrix action",
       "fill |1",
       "rule",
       "text | 250¥"
@@ -689,6 +802,24 @@
     "tags": [
       "prog",
       "lang"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Lockdown",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "text | Cause link-lock when you do Matrix damage",
+      "fill |1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "prog",
+      "hacking"
     ],
     "color": "Indigo",
     "icon": "compact-disc"
@@ -778,6 +909,44 @@
     "icon": "compact-disc"
   },
   {
+    "count": "4",
+    "title": "RCC Noise Reduction",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "property | Noise: | cancel  1 ",
+      "fill | 1",
+      "text| Consumes two program slots.",
+      "fill |1",
+      "rule",
+      "text | 0¥"
+    ],
+    "tags": [
+      "prog",
+      "basic"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Sandbox",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "text | +1 to defusing a databomb",
+      "fill |1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "prog",
+      "hacking"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
     "count": 1,
     "title": "Shooting:  d8",
     "contents": [
@@ -799,7 +968,7 @@
     "contents": [
       "section | Program, Basic",
       "fill | 1",
-      "property | Noise: | cancel -2",
+      "property | Noise: | cancel -1",
       "fill |1",
       "rule",
       "text | 60¥"
@@ -807,6 +976,62 @@
     "tags": [
       "prog",
       "basic"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Sleaze",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "text | +2 to bypass Access ICE",
+      "fill |1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "prog",
+      "hacking"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Staple",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "text | Stores two cyberdeck attribute configurations. ",
+      "fill | 1",
+      "text| With a single action, the user can switch from one configuration to the other. ",
+      "fill |1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "prog",
+      "hacking"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Stealth",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "property| Stealth:| +1",
+      "fill |1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "prog",
+      "hacking"
     ],
     "color": "Indigo",
     "icon": "compact-disc"
@@ -843,6 +1068,62 @@
     "tags": [
       "prog",
       "auto"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Trace",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "text | 1 free reroll on Trace Icon action",
+      "fill |1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "prog",
+      "hacking"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Tunnel",
+    "contents": [
+      "section | Program, Hacking",
+      "fill | 1",
+      "property| Link:| +1",
+      "fill |1",
+      "rule",
+      "text | 250¥"
+    ],
+    "tags": [
+      "prog",
+      "hacking"
+    ],
+    "color": "Indigo",
+    "icon": "compact-disc"
+  },
+  {
+    "count": 1,
+    "title": "Virtual Machine",
+    "contents": [
+      "section | Program, Basic",
+      "fill | 1",
+      "text | +2 program slots (net gain of 1 slot)",
+      "fill | 1",
+      "text| Programs that crash virtual machine crash all programs in the slots created by virtual machine as well. ",
+      "fill |1",
+      "rule",
+      "text | 60¥"
+    ],
+    "tags": [
+      "prog",
+      "basic"
     ],
     "color": "Indigo",
     "icon": "compact-disc"
@@ -1477,7 +1758,7 @@
       "text | Meta Link",
       "fill | 1",
       "property | Rating: | 1",
-      "property | Firewall: | 2",
+      "property | Firewall: | 3",
       "property | Programs: | 0",
       "fill | 1",
       "boxes | 10 | 1.65",
@@ -1497,7 +1778,7 @@
       "text | Sony Emperor",
       "fill | 1",
       "property | Rating: | 2",
-      "property | Firewall: | 5",
+      "property | Firewall: | 3",
       "property | Programs: | 1",
       "fill | 1",
       "rule",
@@ -1516,7 +1797,7 @@
       "text | Transys Avalon ",
       "fill | 1",
       "property | Rating: | 6",
-      "property | Firewall: | 7",
+      "property | Firewall: | 6",
       "property | Programs: | 3",
       "fill | 1",
       "rule",
@@ -1822,9 +2103,12 @@
     "contents": [
       "text | Horizon Overseer",
       "fill | 1",
-      "property| Firewall: | 8",
+      "property| Firewall: | 6",
+      "property| Stealth: | 4",
+      "property| Filter: | 4",
+      "property | Link: | 4",
+      "fill | 1",
       "property | Rating: | 4",
-      "property | Noise: | cancel -4",
       "property | Slave: | 12 drones",
       "property | Programs: | 4",
       "fill | 1",
@@ -1846,13 +2130,14 @@
       "fill | 1",
       "property | Pockets: | -4 noise",
       "property | Electrochem | ",
+      "property | Wires | in sleeves, down back",
       "fill | 5",
       "section | Wireless",
       "property | Color: | free action | Color: | 1 action ",
       "property |Video: | yes ",
       "fill | 1",
       "rule",
-      "text | 675¥"
+      "text | 775¥"
     ],
     "tags": [
       "gear"
